@@ -1,6 +1,6 @@
 # Kodluyoruzilkrepo 
 ## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo Kodluyoruz Git Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![alt text](https://imgyukle.com/f/2022/10/30/JknAbQ.png)
 # Installation­­
